@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Notes",
+  "description": "A secure note-taking application with authentication and real-time storage powered by Supabase.",
+  "requestFramePermissions": []
+}
